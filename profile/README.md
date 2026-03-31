@@ -1,7 +1,9 @@
 # Hello There
 ---
 I code sometimes, what Icode is generally interesting in a way.
+
 I can code in a bunch of languages.
+
 I do alot of random stuff.
 
 ---
